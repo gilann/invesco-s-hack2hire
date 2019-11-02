@@ -1,3 +1,3 @@
 # Team Ionicons
 
-## A web platform for fanancial advisor
+## A web platform for financial advisor
